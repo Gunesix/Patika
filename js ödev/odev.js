@@ -34,4 +34,4 @@ function showTime(){
 
 }
 
-setInterval(showTime)
+setInterval(showTime);
