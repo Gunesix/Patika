@@ -1,0 +1,36 @@
+
+
+.formBilgi{
+    display: flex;
+    justify-content: center !important;
+    align-items: center !important;
+}
+
+.formControl{
+    width: 20rem;
+}
+.liste{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+    
+}
+.liste > li {
+    margin-top: 10px;
+}
+#liste{
+    
+
+    list-style-type: none;
+}
+
+h1,h2,h4,h5,h6{
+    font-family: 'Passion One', cursive !important;
+}
+h3{
+    font-family: 'Fredoka One', cursive !important;
+}
+body{
+    font-family: 'Poppins', sans-serif !important;
+}
