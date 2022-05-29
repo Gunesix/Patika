@@ -1,0 +1,23 @@
+{
+  "name": "react-exam",
+  "version": "1.0.0",
+  "description": "Kodluyoruz react ilk ödev",
+  "main": "app.jsx",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com"
+  },
+  "author": "Gunesix",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gunesix"
+  },
+  "homepage": "https://github.com/gunesix#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
