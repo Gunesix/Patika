@@ -1,3 +1,3 @@
-## Patika.dev ödevimiz olan form
+## Patika.dev ödevimiz olan Fetch api
 
  <img src="odev.png"/>
